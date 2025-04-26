@@ -1,7 +1,7 @@
 # task-tracker | pt-br
 Task tracker simples em CLI feito para estudar postgres
 
-Para utilizar, crie um arquivo ```.env``` e siga o exemplo do arquivo ```ENVEXAMPLE.txt``` de como preencher os campos necessários no .env para o funcionamento do código.
+Para utilizar, clone o repositório, abre aquele venv maroto e dá um ```pip install requirements.txt"```, após isso,  crie um arquivo ```.env``` e siga o exemplo do arquivo ```ENVEXAMPLE.txt``` de como preencher os campos necessários no .env para o funcionamento do código.
 
 # Utilização:
 Digite ```python3 cli.py --help``` para ver os comandos disponíveis.
@@ -19,7 +19,7 @@ IDs e datas são inseridos automaticamente pelo programa, data é atualizada ao 
 # task-tracker | eng
 Simple CLI task tracker made to study PostgreSQL.
 
-To use it, create a `.env` file and follow the example in the `ENVEXAMPLE.txt` file to fill in the necessary fields for the code to work.
+To use it, create a virtual environment, run ```pip install requirements.txt``` and then create a `.env` file and follow the example in the `ENVEXAMPLE.txt` file to fill in the necessary fields for the code to work.
 
 # Usage:
 Type ```python3 cli.py --help``` to see the available commands.  
