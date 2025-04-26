@@ -1,0 +1,5 @@
+database="yourdbname"
+host="yourhostname"
+user="yourusername"
+password="yourpassword"
+port="yourport"
