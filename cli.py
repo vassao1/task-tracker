@@ -1,7 +1,7 @@
-import typer
+import typer # type: ignore
 from db import *
-from rich.table import Table
-from rich.console import Console
+from rich.table import Table # type: ignore
+from rich.console import Console # type: ignore
 
 app = typer.Typer()
 console = Console()
